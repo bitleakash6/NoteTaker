@@ -7,3 +7,9 @@ JSP (JavaServer Pages):
 Craft an engaging user interface by seamlessly combining Java code with HTML.
 Hibernate ORM:
 Streamline database interactions for efficient CRUD operations, ensuring data integrity.
+
+## ScreenShot
+![Screenshot](https://github.com/yourusername/yourrepository/images/addpage.png)
+![Screenshot](https://github.com/yourusername/yourrepository/images/showpage.png)
+![Screenshot](https://github.com/yourusername/yourrepository/images/homepage.png)
+
