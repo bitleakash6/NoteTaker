@@ -1,4 +1,4 @@
-# Note Taker Web Aoplication
+# Note Taker Web Application
 In the development of our dynamic web application, the collaboration of Servlets, JSP, and Hibernate ORM stands out:
 
 Servlets:
